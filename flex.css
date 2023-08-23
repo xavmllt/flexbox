@@ -1,0 +1,33 @@
+#conteneur{
+    border: 2px solid red;
+    width: 90%;
+    height: 300px;
+    display: flex;
+    /* flex-direction: column-reverse;  */
+    /* flex-direction: row;  */
+    /* justify-content: flex-start;  */
+    /* justify-content: flex-end;  */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+    /* flex-flow: row wrap; */
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.element{
+    border: 2px solid green;
+}
+
+#rouge{
+    background-color: red;
+}
+
+#vert{
+    background-color: green;
+}
+
+#jaune{
+    background-color: yellow;
+}
