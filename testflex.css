@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    display: flex;
+    width: 100%;
+    height: it-content;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+
+}
+
+#vive{
+    background-color: darkblue;
+}
+
+#mvive{
+    background-color: blue
+}
+
+#terne{
+    background-color: lightblue;
+}
+
+#opaque{
+    background-color: grey;
+}
+
+#sombre{
+    background-color: lightgray;
+}
+
+li{
+    width: 30%;
+    height: 20vh;
+    list-style-type: none;
+    color: red;
+}
